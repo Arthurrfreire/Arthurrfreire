@@ -7,7 +7,7 @@
 ### Node.js • TypeScript • React • PostgreSQL • PHP • Oracle
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurramalhofreire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurramalhofreire)
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.ramalho.freire@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-arthur.ramalho.freire%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.ramalho.freire@gmail.com)
 
 </div>
 
@@ -21,7 +21,7 @@ Tenho experiência com tecnologias modernas e também com sistemas legados, part
 
 ---
 
-## Stack principal
+## Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -30,13 +30,24 @@ Tenho experiência com tecnologias modernas e também com sistemas legados, part
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Oracle](https://img.shields.io/badge/Oracle-0d1117?style=for-the-badge&logo=oracle&logoColor=F80000)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
+
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0d1117?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-0d1117?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
-
 ---
 
 ## Atualmente
@@ -59,10 +70,5 @@ Tenho experiência com tecnologias modernas e também com sistemas legados, part
 </div>
 
 ---
-
-## Contato
-
-- LinkedIn: [arthurramalhofreire](https://www.linkedin.com/in/arthurramalhofreire)
-- E-mail: **arthur.ramalho.freire@gmail.com**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:ff5555&height=120&section=footer"/>
