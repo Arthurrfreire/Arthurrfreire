@@ -48,7 +48,6 @@ Tenho experiência com tecnologias modernas e também com sistemas legados, part
 ![DBeaver](https://img.shields.io/badge/DBeaver-0d1117?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
----
 
 ## Atualmente
 
