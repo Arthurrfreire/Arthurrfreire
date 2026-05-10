@@ -15,9 +15,14 @@
 
 ## Sobre mim
 
-Sou desenvolvedor full stack com forte atuação em back-end, trabalhando com desenvolvimento e manutenção de sistemas web, APIs, integrações e bancos de dados.
 
-Tenho experiência com tecnologias modernas e também com sistemas legados, participando da construção de soluções voltadas a produtos digitais, operação e impacto social.
+Sou Desenvolvedor Full Stack com foco em sistemas web, APIs, integrações e automação de processos, atuando principalmente com TypeScript, Node.js, React, PostgreSQL, Prisma, Azure DevOps, AWS S3 e Keycloak.
+ 
+Atualmente, faço parte do time do Hospital Israelita Albert Einstein em uma iniciativa vinculada ao PROADI-SUS, contribuindo para a evolução de uma plataforma utilizada em fluxos de pesquisa, coleta, monitoria e gestão de dados clínicos. No dia a dia, participo do desenvolvimento de funcionalidades full stack, criação e manutenção de endpoints REST, implementação de interfaces, validações de regras de negócio, upload e gerenciamento de arquivos, dashboards, integrações e melhorias de usabilidade.
+ 
+Entre minhas entregas, participei da integração de dados da Plataforma Brasil ao SGP com automação via Puppeteer, armazenamento de documentos no AWS S3 e pipeline no Azure DevOps; desenvolvimento de fluxos de edição de coletas; refatoração de dashboard com endpoints especializados; criação de sistema dinâmico de cadastro de perguntas; implementação de filtros reutilizáveis; e fluxos de redefinição de senha integrados ao Keycloak.
+ 
+Tenho interesse em oportunidades como Desenvolvedor Full Stack Jr., Back-end Jr. ou posições com foco em TypeScript, Node.js, React, PostgreSQL, APIs, integrações e sistemas corporativos.
 
 ---
 
