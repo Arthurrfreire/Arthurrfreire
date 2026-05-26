@@ -66,11 +66,35 @@ Tenho interesse em oportunidades como Desenvolvedor Full Stack Jr., Back-end Jr.
 ## Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurrfreire&layout=compact&theme=dracula&hide_border=true" />
+
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthurrfreire&theme=dracula" />
+
 </div>
 
+<br />
+
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arthurrfreire&bg_color=0d1117&color=ff5555&line=ff5555&point=ffffff&area=true&hide_border=true" />
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arthurrfreire&theme=dracula" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arthurrfreire&theme=dracula" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arthurrfreire&theme=dracula" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arthurrfreire&theme=dracula&utcOffset=-3" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arthurrfreire&theme=dracula&bg_color=0d1117&color=ff5555&line=ff5555&point=ffffff&area=true&area_color=ff5555&hide_border=true&custom_title=Gráfico%20de%20Contribuições" />
+
 </div>
 
 ---
